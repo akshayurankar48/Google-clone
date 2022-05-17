@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Header from "../components/Header";
 import SearchResults from "../components/SearchResults";
-import { API_KEY, CONTEXT_KEY } from "../keys";
+import { API_KEY, CONTEXT_KEY } from "../Keys";
 import Response from "../Response";
 import { useRouter } from "next/router";
 
