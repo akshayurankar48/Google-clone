@@ -52,7 +52,7 @@ export default function Home() {
       </header>
 
       {/* Body */}
-      <form className="flex flex-col items-center mt-44 flex-grow w-4/5">
+      <form className="flex flex-col items-center mt-4 flex-grow w-4/5">
         <Image
           src="https://cdn4.iconfinder.com/data/icons/google-3/1000/Google_2015_logo-512.png"
           height={300}
