@@ -57,6 +57,7 @@ export default function Home() {
           src="https://cdn4.iconfinder.com/data/icons/google-3/1000/Google_2015_logo-512.png"
           height={300}
           width={300}
+          alt="google"
         />
 
         <div className="flex w-full mt-5 hover:shadow-lg focus-within:shadow-lg max-w-md rounded-full border-gray-200 px-5 py-3 items-center sm:max-w-xl lg:max-w-2xl">
@@ -74,7 +75,7 @@ export default function Home() {
             Google Search
           </button>
           <button onClick={search} className="btn">
-            I'm Feeling Lucky
+            I am Feeling Lucky
           </button>
         </div>
       </form>
